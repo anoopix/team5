@@ -1,0 +1,10 @@
+D:\Profiles\wtd4240\source\repos\ExternalTool\ExternalTool\bin\Debug\ExternalTool.exe.config
+D:\Profiles\wtd4240\source\repos\ExternalTool\ExternalTool\bin\Debug\ExternalTool.exe
+D:\Profiles\wtd4240\source\repos\ExternalTool\ExternalTool\bin\Debug\ExternalTool.pdb
+D:\Profiles\wtd4240\source\repos\ExternalTool\ExternalTool\obj\Debug\ExternalTool.csprojAssemblyReference.cache
+D:\Profiles\wtd4240\source\repos\ExternalTool\ExternalTool\obj\Debug\ExternalTool.ExternalTool.resources
+D:\Profiles\wtd4240\source\repos\ExternalTool\ExternalTool\obj\Debug\ExternalTool.Properties.Resources.resources
+D:\Profiles\wtd4240\source\repos\ExternalTool\ExternalTool\obj\Debug\ExternalTool.csproj.GenerateResource.cache
+D:\Profiles\wtd4240\source\repos\ExternalTool\ExternalTool\obj\Debug\ExternalTool.csproj.CoreCompileInputs.cache
+D:\Profiles\wtd4240\source\repos\ExternalTool\ExternalTool\obj\Debug\ExternalTool.exe
+D:\Profiles\wtd4240\source\repos\ExternalTool\ExternalTool\obj\Debug\ExternalTool.pdb
